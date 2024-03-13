@@ -1,4 +1,4 @@
-select 
+ select 
 o.orderid,
 o.orderdate,
 o.shipdate,
